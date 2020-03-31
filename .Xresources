@@ -1,0 +1,42 @@
+urxvt*transparent: true
+urxvt*shading: 95
+urxvt*scrollBar: false
+urxvt*font: xft:SourceCodePro-Light:size=10
+
+! special
+*.foreground:   #2d5695
+*.background:   #12233d
+*.cursorColor:  #2d5695
+
+! black
+*.color0:       #ffffff
+*.color8:       #ff7171
+
+! red
+*.color1:       #ffffff
+*.color9:       #2d5695
+
+! green
+*.color2:       #ffffff
+*.color10:      #2d5695
+
+! yellow
+*.color3:       #2d5695
+*.color11:      #ffffff
+
+! blue
+*.color4:       #ffffff
+*.color12:      #2d5695
+
+! magenta
+*.color5:       #ffffff
+*.color13:      #ffffff
+
+! cyan
+*.color6:       #ffffff
+*.color14:      #ff7171
+
+! white
+*.color7:       #2d5695
+*.color15:      #ffffff
+
